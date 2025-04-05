@@ -3,7 +3,7 @@ a continuation and full rebalancing of Kerbalfield
 
 
 list of parts:
-✅ Complete | 🟦 to be tested | 🟨 small rebalance | 🟥 Full rebalance/fix | ⬜ not checked yet | ⬛ other 
+✅ Complete | 🟦 to be tested | 🟨 small rebalance | 🟥 Full rebalance/fix | ⬜ not checked yet | ⬛ someones already doing it 
 
 Russian:
 - ⬜ 2S25
