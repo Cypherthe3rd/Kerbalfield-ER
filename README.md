@@ -14,7 +14,7 @@ list of parts:
 - ⬜ D30
 - ⬜ GSH230
 - ⬜ GSH301
-- ⬜ HeavyERA
+- 🟥 HeavyERA
 - ⬜ KH-41
 - ⬜ KORD
 - ⬜ NS37
