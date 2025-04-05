@@ -9,8 +9,8 @@ list of parts:
 - 🟦 2S25
 - 🟦 9K114
 - 🟦 9K121 
-- ⬜ AK176MA
-- ⬜ AK630
+- ⬜ AK176MA 
+- 🟨 AK630 [proxy fuses]
 - ⬜ D30
 - ⬜ GSH230
 - ⬜ GSH301
