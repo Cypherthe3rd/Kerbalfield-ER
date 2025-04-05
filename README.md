@@ -6,9 +6,9 @@ list of parts:
 ✅ Complete | 🟦 to be tested | 🟨 small rebalance [guidance, range, etc] | 🟥 Full rebalance/fix | ⬜ not checked yet | ⬛ someones already doing it 
 
 **Russian:**
-- ⬜ 2S25
-- ⬜ 9K114
-- 🟨 9K121 [range]
+- 🟦 2S25
+- 🟦 9K114
+- 🟦 9K121 
 - ⬜ AK176MA
 - ⬜ AK630
 - ⬜ D30
