@@ -15,7 +15,7 @@ list of parts:
 - ⬜ GSH230
 - ⬜ GSH301
 - 🟥 HeavyERA
-- ⬜ KH-41
+- 🟨 KH-41 [broken nosedives into sea}
 - ⬜ KORD
 - ⬜ NS37
 - ⬜ O120
