@@ -3,12 +3,12 @@ a continuation and full rebalancing of Kerbalfield
 
 
 list of parts:
-✅ Complete | 🟦 to be tested | 🟨 small rebalance | 🟥 Full rebalance/fix | ⬜ not checked yet | ⬛ someones already doing it 
+✅ Complete | 🟦 to be tested | 🟨 small rebalance [guidance, range, etc] | 🟥 Full rebalance/fix | ⬜ not checked yet | ⬛ someones already doing it 
 
-Russian:
+**Russian:**
 - ⬜ 2S25
 - ⬜ 9K114
-- ⬜ 9K121
+- 🟨 9K121 [range]
 - ⬜ AK176MA
 - ⬜ AK630
 - ⬜ D30
@@ -20,8 +20,8 @@ Russian:
 - ⬜ NS37
 - ⬜ O120
 - ⬜ Plasma_Stealth_System_Module
-- ⬜ Rail176
-- ⬜ RVV-AE-PD
+- 🟨 Rail176 [range]
+- 🟥 RVV-AE-PD [guidance]
 - ⬜ ShVAK-E
 - ⬜ SS-26
 - ⬜ T14
@@ -30,9 +30,9 @@ Russian:
 - ⬜ UPK-23
 - ⬜ VA-111 
 
-US:
+**US:**
 - ⬜ AESA
-- ⬜ AIM-120D
+- ✅ AIM-120D (lofts too low but thats a kappa issue)
 - ⬜ AIM9X
 - ⬜ BGM-154
 - ⬜ CB90MissileLauncher
@@ -40,29 +40,30 @@ US:
 - ⬜ CROWS30
 - ⬜ M2HB
 - ⬜ TOW2B
-- ⬜ TOWL2 
-- ⬜ others:
+- ⬜ TOWL2
+
+**others:**
 - ⬜ AB76
-- ⬜ ADS
+- 🟥 ADS
 - ⬜ FAB-5000
-- ⬜ LAD-X
+- 🟥 LAD-X
 - ⬜ M50
-- ⬜ S21
+- 🟥 S21
 - ⬜ T3485
 - ⬜ ZIS2
 
-EU:
+**EU:**
 - ⬜ Bk27
 - ⬜ CROWS762
 - ⬜ FlareCannon
 - ⬜ HS404
-- ⬜ METEOR
+- ✅ METEOR (lofts too low but thats a kappa issue)
 - ⬜ MG151
 - ⬜ MICA
 - ⬜ MK103
 - ⬜ VickersMG
 
-CN:
+**CN:**
 - ⬜ 59-94
 - ⬜ 89Zjq
 - ⬜ AKD10
@@ -73,28 +74,28 @@ CN:
 - ⬜ HHQ-10Launcher
 - ⬜ HJ-73A
 - ⬜ HPJ-38
-- ⬜ HQ-19
-- ⬜ HQ-2
+- 🟨 HQ-19 [guidance]
+- 🟨 HQ-2 [guidance]
 - ⬜ HQ-2Launcher
-- ⬜ HQ-9
+- 🟨 HQ-9 [guidance]
 - ⬜ KD20
 - ⬜ LD2000
 - ⬜ LS6
 - ⬜ LT-2
 - ⬜ PGZ-07
 - ⬜ PL-10
-- ⬜ PL-12
-- ⬜ PL-15
+- 🟨 PL-12 [guidance]
+- 🟨 PL-15 [guidance]
 - ⬜ PL-8
 - ⬜ PLZ05
-- ⬜ RADAR346B
+- ⬜ RADAR346B [balancing]
 - ⬜ SY1
 - ⬜ TorpedoLauncher
-- ⬜ TY-90
+- ⬜ TY-90 
 - ⬜ YJ-83
 - ⬜ YJ-91
 - ⬜ YJ-Launcher
-- ⬜ YJ12
+- 🟥 YJ12
 - ⬜ YJ18
 - ⬜ YJ9
 - ⬜ YU6
