@@ -19,7 +19,7 @@ list of parts:
 - ⬜ KORD
 - ⬜ NS37
 - ⬜ O120
-- ⬜ Plasma_Stealth_System_Module
+- 🟨 Plasma_Stealth_System_Module
 - 🟨 Rail176 [range]
 - 🟥 RVV-AE-PD [guidance]
 - ⬜ ShVAK-E
@@ -31,13 +31,13 @@ list of parts:
 - ⬜ VA-111 
 
 **US:**
-- ⬜ AESA
+- 🟨 AESA
 - ✅ AIM-120D (lofts too low but thats a kappa issue)
 - ⬜ AIM9X
 - ⬜ BGM-154
 - ⬜ CB90MissileLauncher
 - ⬜ CROWS
-- ⬜ CROWS30
+- 🟨 CROWS30 [pen]
 - ⬜ M2HB
 - ⬜ TOW2B
 - ⬜ TOWL2
@@ -46,7 +46,7 @@ list of parts:
 - ⬜ AB76
 - 🟥 ADS
 - ⬜ FAB-5000
-- 🟥 LAD-X
+- ⬛ LAD-X
 - ⬜ M50
 - 🟥 S21
 - ⬜ T3485
@@ -70,7 +70,7 @@ list of parts:
 - ⬜ CH-100MM
 - ⬜ DF-17
 - ⬜ FT1
-- ⬜ HHQ-10
+- 🟨 HHQ-10 [guidance]
 - ⬜ HHQ-10Launcher
 - ⬜ HJ-73A
 - ⬜ HPJ-38
@@ -88,7 +88,7 @@ list of parts:
 - 🟨 PL-15 [guidance]
 - ⬜ PL-8
 - ⬜ PLZ05
-- ⬜ RADAR346B [balancing]
+- 🟨 RADAR346B [balancing]
 - ⬜ SY1
 - ⬜ TorpedoLauncher
 - ⬜ TY-90 
@@ -96,10 +96,10 @@ list of parts:
 - ⬜ YJ-91
 - ⬜ YJ-Launcher
 - 🟥 YJ12
-- ⬜ YJ18
+- 🟨 YJ18 [range]
 - ⬜ YJ9
 - ⬜ YU6
 - ⬜ YU7
 - ⬜ ZBL08
-ZTZ-15
-ZTZ-99A2
+- ⬜ ZTZ-15
+- ⬜ ZTZ-99A2
