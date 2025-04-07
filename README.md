@@ -70,8 +70,8 @@ list of parts:
 - ⬜ CH-100MM
 - ✅ DF-17
 - 🟨 FT1 [range]
-- 🟨 HHQ-10 [guidance]
-- ⬜ HHQ-10Launcher
+- ✅ HHQ-10
+- ✅ HHQ-10Launcher
 - 🟨 HJ-73A [range]
 - ⬜ HPJ-38
 - 🟨 HQ-19 [guidance]
@@ -84,8 +84,8 @@ list of parts:
 - 🟨 LT-2 [range]
 - ⬜ PGZ-07
 - ⬜ PL-10
-- 🟨 PL-12 [guidance]
-- 🟨 PL-15 [guidance]
+- 🟨 PL-12 [burn time]
+- ✅ PL-15 
 - ⬜ PL-8
 - ⬜ PLZ05
 - 🟨 RADAR346B [balancing]
