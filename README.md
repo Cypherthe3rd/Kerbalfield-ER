@@ -69,10 +69,10 @@ list of parts:
 - ⬜ AKD10
 - ⬜ CH-100MM
 - ✅ DF-17
-- ⬜ FT1
+- 🟨 FT1 [range]
 - 🟨 HHQ-10 [guidance]
 - ⬜ HHQ-10Launcher
-- ⬜ HJ-73A
+- 🟨 HJ-73A [range]
 - ⬜ HPJ-38
 - 🟨 HQ-19 [guidance]
 - 🟨 HQ-2 [guidance]
@@ -81,7 +81,7 @@ list of parts:
 - ✅ KD20
 - ⬜ LD2000
 - ⬜ LS6
-- ⬜ LT-2
+- 🟨 LT-2 [range]
 - ⬜ PGZ-07
 - ⬜ PL-10
 - 🟨 PL-12 [guidance]
