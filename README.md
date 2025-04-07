@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/641fb83c-22e7-4f3c-b55b-3037afc71e77)# Kerbalfield-ER
+Kerbalfield-ER
 a continuation and full rebalancing of Kerbalfield
 
 
