@@ -1,4 +1,4 @@
-# Kerbalfield-ER
+Kerbalfield-ER, 
 a continuation and full rebalancing of Kerbalfield
 
 
@@ -68,20 +68,20 @@ list of parts:
 - ⬜ 89Zjq
 - ⬜ AKD10
 - ⬜ CH-100MM
-- ⬜ DF-17
-- ⬜ FT1
+- ✅ DF-17
+- 🟨 FT1 [range]
 - 🟨 HHQ-10 [guidance]
 - ⬜ HHQ-10Launcher
-- ⬜ HJ-73A
+- 🟨 HJ-73A [range]
 - ⬜ HPJ-38
 - 🟨 HQ-19 [guidance]
 - 🟨 HQ-2 [guidance]
 - ⬜ HQ-2Launcher
 - 🟨 HQ-9 [guidance]
-- ⬜ KD20
+- ✅ KD20
 - ⬜ LD2000
 - ⬜ LS6
-- ⬜ LT-2
+- 🟨 LT-2 [range]
 - ⬜ PGZ-07
 - ⬜ PL-10
 - 🟨 PL-12 [guidance]
