@@ -1,4 +1,4 @@
-# Kerbalfield-ER
+![image](https://github.com/user-attachments/assets/641fb83c-22e7-4f3c-b55b-3037afc71e77)# Kerbalfield-ER
 a continuation and full rebalancing of Kerbalfield
 
 
@@ -68,7 +68,7 @@ list of parts:
 - ⬜ 89Zjq
 - ⬜ AKD10
 - ⬜ CH-100MM
-- ⬜ DF-17
+- ✅ DF-17
 - ⬜ FT1
 - 🟨 HHQ-10 [guidance]
 - ⬜ HHQ-10Launcher
@@ -78,7 +78,7 @@ list of parts:
 - 🟨 HQ-2 [guidance]
 - ⬜ HQ-2Launcher
 - 🟨 HQ-9 [guidance]
-- ⬜ KD20
+- ✅ KD20
 - ⬜ LD2000
 - ⬜ LS6
 - ⬜ LT-2
