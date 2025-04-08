@@ -15,7 +15,7 @@ list of parts:
 ✅ Complete | 🟦 to be tested | 🟨 small rebalance [guidance, range, etc] | 🟥 Full rebalance/fix | ⬜ not checked yet | ⬛ someones already doing it 
 
 **Russian:**
-- 🟦 2S25
+- 🟨 2S25 [pen]
 - 🟦 9K114
 - 🟦 9K121 
 - ⬜ AK176MA 
@@ -33,8 +33,8 @@ list of parts:
 - 🟨 RVV-AE-PD [guidance]
 - ⬜ ShVAK-E
 - ⬜ SS-26
-- ⬜ T14
-- ⬜ T62M1
+- 🟨 T14 [pen]
+- 🟨 T62M1 [pen]
 - ⬜ TU423
 - ⬜ UPK-23
 - ⬜ VA-111 
@@ -58,7 +58,7 @@ list of parts:
 - ⬛ LAD-X
 - ⬜ M50
 - 🟥 S21
-- ⬜ T3485
+- 🟨 T3485 [pen]
 - ⬜ ZIS2
 
 **EU:**
@@ -73,36 +73,36 @@ list of parts:
 - ⬜ VickersMG
 
 **CN:**
-- ⬜ 59-94
-- ⬜ 89Zjq
-- ⬜ AKD10
-- ⬜ CH-100MM
+- 🟨 ZTZ-59-94 [pen]
+- ✅ 89Zjq
+- ✅ AKD10
+- 🟨 CH-100MM [pen]
 - ✅ DF-17
 - 🟨 FT1 [range]
 - ✅ HHQ-10
 - ✅ HHQ-10Launcher
 - 🟨 HJ-73A [range]
-- ⬜ HPJ-38
-- 🟨 HQ-19 [guidance]
-- 🟨 HQ-2 [guidance]
-- ⬜ HQ-2Launcher
-- 🟨 HQ-9 [guidance]
+- 🟨 HPJ-38 [pen]
+- ✅ HQ-19 [guidance]
+- ✅ HQ-2
+- ✅ HQ-2Launcher
+- ✅ HQ-9 
 - ✅ KD20
-- ⬜ LD2000
-- ⬜ LS6
-- 🟨 LT-2 [range]
-- ⬜ PGZ-07
-- ⬜ PL-10
-- 🟨 PL-12 [burn time]
+- ✅ LD2000
+- ✅ LS6
+- ✅ LT-2 
+- 🟨 PGZ-07 [pen]
+- ✅ PL-10
+- ✅ PL-12 
 - ✅ PL-15 
-- ⬜ PL-8
-- ⬜ PLZ05
+- ✅ PL-8
+- ✅ PLZ05
 - 🟨 RADAR346B [balancing]
 - ⬜ SY1
 - ⬜ TorpedoLauncher
-- ⬜ TY-90 
-- ⬜ YJ-83
-- ⬜ YJ-91
+- ✅ TY-90 
+- 🟨 YJ-83 [range]
+- 🟨 YJ-91 [guidance]
 - ⬜ YJ-Launcher
 - 🟥 YJ12
 - 🟨 YJ18 [range]
