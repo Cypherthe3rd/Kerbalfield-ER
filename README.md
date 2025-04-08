@@ -1,5 +1,5 @@
 Kerbalfield-ER, 
-a continuation and full rebalancing of Kerbalfield
+a continuation and full rebalancing of Kerbalfield by Kernowden Kerbin
 
 
 list of parts:
