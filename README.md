@@ -19,9 +19,9 @@ list of parts:
 - ⬜ KORD
 - ⬜ NS37
 - ⬜ O120
-- 🟨 Plasma_Stealth_System_Module
+- 🟨 Plasma_Stealth_System_Module [rebalance]
 - 🟨 Rail176 [range]
-- 🟥 RVV-AE-PD [guidance]
+- 🟨 RVV-AE-PD [guidance]
 - ⬜ ShVAK-E
 - ⬜ SS-26
 - ⬜ T14
@@ -33,7 +33,7 @@ list of parts:
 **US:**
 - 🟨 AESA
 - ✅ AIM-120D (lofts too low but thats a kappa issue)
-- ⬜ AIM9X
+- ✅ AIM9X
 - ⬜ BGM-154
 - ⬜ CB90MissileLauncher
 - ⬜ CROWS
