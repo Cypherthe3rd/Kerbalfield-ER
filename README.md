@@ -2,6 +2,15 @@ Kerbalfield-ER,
 a continuation and full rebalancing of Kerbalfield by Kernowden Kerbin
 
 
+**Plans:**
+1. release (0.1): all parts fixed and rebalanced
+2.  (0.2): better localization
+3.  (0.3): texture fixes
+4.  (0.4): placeholder for stuff i didnt think of yet
+5.  (1.0): once the mod is fully presentable
+6. in the future some more parts are planned but we will see
+
+
 list of parts:
 ✅ Complete | 🟦 to be tested | 🟨 small rebalance [guidance, range, etc] | 🟥 Full rebalance/fix | ⬜ not checked yet | ⬛ someones already doing it 
 
