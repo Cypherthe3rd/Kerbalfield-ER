@@ -22,7 +22,7 @@ LAD-X Low Altitude Dispenser
 BGM-154 High Speed Anti-Tank Missile 
 
 Fix texture bugs 
-And add [category] based on CommunityCategoryKit(CCK)
+And added [category] based on CommunityCategoryKit(CCK)
 --------------------------------------------------------------------
 Version V2.4.1 For KSP 1.6.X
 
