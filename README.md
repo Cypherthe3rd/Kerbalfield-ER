@@ -43,18 +43,18 @@ list of parts:
 - 🟨 AESA
 - ✅ AIM-120D (lofts too low but thats a kappa issue)
 - ✅ AIM9X
-- ⬜ BGM-154
-- ⬜ CB90MissileLauncher
+- 🟨 BGM-154 [now AARGM-ER or AGM-88G]
+- ✅ CB90MissileLauncher
 - ⬜ CROWS
 - 🟨 CROWS30 [pen]
 - ⬜ M2HB
-- ⬜ TOW2B
+- ✅ TOW2B
 - ⬜ TOWL2
 
 **others:**
-- ⬜ AB76
-- 🟥 ADS
-- ⬜ FAB-5000
+- ✅ AB76
+- ✅ ADS
+- ✅ FAB-5000
 - ⬛ LAD-X
 - ⬜ M50
 - 🟥 S21
@@ -62,15 +62,15 @@ list of parts:
 - ⬜ ZIS2
 
 **EU:**
-- ⬜ Bk27
-- ⬜ CROWS762
-- ⬜ FlareCannon
-- ⬜ HS404
+- ✅ Bk27
+- ✅ CROWS762
+- ✅ FlareCannon (why does this exist?)
+- 🟨 HS404 [pen]
 - ✅ METEOR (lofts too low but thats a kappa issue)
-- ⬜ MG151
-- ⬜ MICA
-- ⬜ MK103
-- ⬜ VickersMG
+- ✅ MG151
+- ✅ MICA
+- ✅ MK103
+- 🟥 VickersMG (bro doesnt show up in the sph)
 
 **CN:**
 - 🟨 ZTZ-59-94 [pen]
@@ -78,10 +78,10 @@ list of parts:
 - ✅ AKD10
 - 🟨 CH-100MM [pen]
 - ✅ DF-17
-- 🟨 FT1 [range]
+- ✅ FT1 [range]
 - ✅ HHQ-10
 - ✅ HHQ-10Launcher
-- 🟨 HJ-73A [range]
+- ✅ HJ-73A [range]
 - 🟨 HPJ-38 [pen]
 - ✅ HQ-19 [guidance]
 - ✅ HQ-2
@@ -98,17 +98,17 @@ list of parts:
 - ✅ PL-8
 - ✅ PLZ05
 - 🟨 RADAR346B [balancing]
-- ⬜ SY1
-- ⬜ TorpedoLauncher
+- ✅ SY1
+- ✅ TorpedoLauncher
 - ✅ TY-90 
 - 🟨 YJ-83 [range]
 - 🟨 YJ-91 [guidance]
-- ⬜ YJ-Launcher
-- 🟥 YJ12
-- 🟨 YJ18 [range]
-- ⬜ YJ9
-- ⬜ YU6
-- ⬜ YU7
+- ✅ YJ-Launcher
+- 🟨 YJ12
+- ✅ YJ18
+- ✅ YJ9
+- 🟨 YU6 [fucking torpedoes]
+- 🟨 YU7
 - ⬜ ZBL08
 - ⬜ ZTZ-15
 - ⬜ ZTZ-99A2
