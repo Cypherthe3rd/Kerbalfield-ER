@@ -21,6 +21,7 @@ list of parts:
 - ⬜ AK176MA 
 - 🟨 AK630 [proxy fuses]
 - ⬜ D30
+- ✅ FAB-5000
 - ⬜ GSH230
 - ⬜ GSH301
 - 🟥 HeavyERA
@@ -28,16 +29,19 @@ list of parts:
 - ⬜ KORD
 - ⬜ NS37
 - ⬜ O120
-- 🟨 Plasma_Stealth_System_Module [rebalance]
+- ✅ Plasma_Stealth_System_Module [placeholder]
 - 🟨 Rail176 [range]
-- 🟨 RVV-AE-PD [guidance]
+- ✅ RVV-AE-PD [guidance]
+- ✅ S21
 - ⬜ ShVAK-E
-- ⬜ SS-26
+- ✅ SS-26
 - 🟨 T14 [pen]
+- 🟨 T3485 [pen]
 - 🟨 T62M1 [pen]
-- ⬜ TU423
+- ✅ TU423
 - ⬜ UPK-23
-- ⬜ VA-111 
+- ✅ VA-111 
+- ⬜ ZIS2
 
 **US:**
 - 🟨 AESA
@@ -48,18 +52,14 @@ list of parts:
 - ⬜ CROWS
 - 🟨 CROWS30 [pen]
 - ⬜ M2HB
+- ⬜ M50
 - ✅ TOW2B
 - ⬜ TOWL2
 
 **others:**
 - ✅ AB76
 - ✅ ADS
-- ✅ FAB-5000
-- ⬛ LAD-X
-- ⬜ M50
-- 🟥 S21
-- 🟨 T3485 [pen]
-- ⬜ ZIS2
+- 🟥 LAD-X/Y
 
 **EU:**
 - ✅ Bk27
@@ -107,8 +107,8 @@ list of parts:
 - 🟨 YJ12
 - ✅ YJ18
 - ✅ YJ9
-- 🟨 YU6 [fucking torpedoes]
-- 🟨 YU7
+- ✅ YU6
+- ✅ YU7
 - ⬜ ZBL08
 - ⬜ ZTZ-15
 - ⬜ ZTZ-99A2
