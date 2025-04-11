@@ -16,8 +16,8 @@ list of parts:
 
 **Russian:**
 - 🟨 2S25 [pen]
-- 🟦 9K114
-- 🟦 9K121 
+- ✅ 9K114
+- ✅ 9K121 
 - ⬜ AK176MA 
 - 🟨 AK630 [proxy fuses]
 - ⬜ D30
