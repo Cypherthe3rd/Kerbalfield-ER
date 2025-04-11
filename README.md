@@ -25,13 +25,13 @@ list of parts:
 - ⬜ GSH230
 - ⬜ GSH301
 - 🟥 HeavyERA
-- 🟨 KH-41 [broken nosedives into sea}
+- ✅ KH-41
 - ⬜ KORD
 - ⬜ NS37
 - ⬜ O120
-- ✅ Plasma_Stealth_System_Module [placeholder]
+- ✅ Plasma_Stealth_System_Module [needs a bit of tweaking still]
 - 🟨 Rail176 [range]
-- ✅ RVV-AE-PD [guidance]
+- ✅ RVV-AE-PD
 - ✅ S21
 - ⬜ ShVAK-E
 - ✅ SS-26
@@ -54,7 +54,7 @@ list of parts:
 - ⬜ M2HB
 - ⬜ M50
 - ✅ TOW2B
-- ⬜ TOWL2
+- ✅ TOWL2
 
 **others:**
 - ✅ AB76
@@ -78,12 +78,12 @@ list of parts:
 - ✅ AKD10
 - 🟨 CH-100MM [pen]
 - ✅ DF-17
-- ✅ FT1 [range]
+- ✅ FT1
 - ✅ HHQ-10
 - ✅ HHQ-10Launcher
-- ✅ HJ-73A [range]
+- ✅ HJ-73A
 - 🟨 HPJ-38 [pen]
-- ✅ HQ-19 [guidance]
+- ✅ HQ-19
 - ✅ HQ-2
 - ✅ HQ-2Launcher
 - ✅ HQ-9 
@@ -97,14 +97,14 @@ list of parts:
 - ✅ PL-15 
 - ✅ PL-8
 - ✅ PLZ05
-- 🟨 RADAR346B [balancing]
+- 🟨 RADAR346B
 - ✅ SY1
 - ✅ TorpedoLauncher
 - ✅ TY-90 
-- 🟨 YJ-83 [range]
-- 🟨 YJ-91 [guidance]
+- ✅ YJ-83
+- ✅ YJ-91
 - ✅ YJ-Launcher
-- 🟨 YJ12
+- ✅ YJ12
 - ✅ YJ18
 - ✅ YJ9
 - ✅ YU6
