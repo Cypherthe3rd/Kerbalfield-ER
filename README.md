@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a5e59553-4448-4f21-9e84-6b2c44418c78)Kerbalfield-ER, 
+Kerbalfield-ER, 
 a continuation and full rebalancing of Kerbalfield by Kernowden Kerbin
 
 
@@ -107,8 +107,8 @@ list of parts:
 - 🟨 YJ12
 - ✅ YJ18
 - ✅ YJ9
-- ⬜ YU6
-- ⬜ YU7
+- 🟨 YU6 [fucking torpedoes]
+- 🟨 YU7
 - ⬜ ZBL08
 - ⬜ ZTZ-15
 - ⬜ ZTZ-99A2
