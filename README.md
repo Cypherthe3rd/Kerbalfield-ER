@@ -12,7 +12,7 @@ a continuation and full rebalancing of Kerbalfield by Kernowden Kerbin
 
 
 list of parts:
-✅ Complete | 🟦 to be tested | 🟨 small rebalance [guidance, range, etc] | 🟥 Full rebalance/fix | ⬜ not checked yet | ⬛ someones already doing it 
+✅ Complete | 🟦 to be tested | 🟨 small rebalance [guidance, range, etc] | 🟥 Full rebalance/fix | ⬜ not checked yet
 
 **Russian:**
 - 🟨 2S25 [pen]
