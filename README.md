@@ -4,7 +4,7 @@ a continuation and full rebalancing of Kerbalfield by Kernowden Kerbin
 
 **Plans:**
 1. release (0.1): all missiles fixed and rebalanced
-2.  (0.2): radar stuff
+2.  (0.2): gun stuff
 3.  (0.3): texture fixes and localization
 4.  (0.4): placeholder for stuff i didnt think of yet
 5.  (1.0): once the mod is fully presentable
