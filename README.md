@@ -15,7 +15,7 @@ list of parts:
 ✅ Complete | 🟦 to be tested | 🟨 small rebalance [guidance, range, etc] | 🟥 Full rebalance/fix | ⬜ not checked yet
 
 **Russian:**
-- 🟨 2S25 [pen]
+- 🟦 2S25 [pen]
 - ✅ 9K114
 - ✅ 9K121 
 - ⬜ AK176MA 
