@@ -18,7 +18,7 @@ list of parts:
 - 🟦 2S25 [pen]
 - ✅ 9K114
 - ✅ 9K121 
-- ⬜ AK176MA 
+- 🟨  AK176MA (ammo rework pending)
 - 🟨 AK630 [proxy fuses]
 - ⬜ D30
 - ✅ FAB-5000
