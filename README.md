@@ -19,7 +19,7 @@ list of parts:
 - ✅ 9K114
 - ✅ 9K121 
 - 🟨  AK176MA (ammo rework pending)
-- 🟨 AK630 [proxy fuses]
+- ✅ AK630
 - 🟦 D30
 - ✅ FAB-5000
 - ⬜ GSH230
