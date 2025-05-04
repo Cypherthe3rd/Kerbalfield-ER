@@ -66,7 +66,7 @@ list of parts:
 - ✅ CROWS762
 - ✅ FlareCannon (why does this exist?)
 - 🟨 HS404 [pen]
-- ✅ METEOR (lofts too low but thats a kappa issue)
+- ✅ METEOR
 - ✅ MG151
 - ✅ MICA
 - ✅ MK103
