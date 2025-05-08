@@ -23,7 +23,7 @@ list of parts:
 - 🟦 D30
 - ✅ FAB-5000
 - 🟦 GSH230
-- ⬜ GSH301
+- 🟦 GSH301
 - 🟥 HeavyERA
 - ✅ KH-41
 - ⬜ KORD
