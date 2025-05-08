@@ -22,7 +22,7 @@ list of parts:
 - ✅ AK630
 - 🟦 D30
 - ✅ FAB-5000
-- ⬜ GSH230
+- 🟦 GSH230
 - ⬜ GSH301
 - 🟥 HeavyERA
 - ✅ KH-41
