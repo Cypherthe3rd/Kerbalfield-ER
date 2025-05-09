@@ -26,7 +26,7 @@ list of parts:
 - 🟦 GSH301
 - 🟥 HeavyERA
 - ✅ KH-41
-- ⬜ KORD
+- 🟦 KORD
 - ⬜ NS37
 - ⬜ O120
 - ✅ Plasma_Stealth_System_Module [needs a bit of tweaking still]
