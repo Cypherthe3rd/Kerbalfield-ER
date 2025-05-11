@@ -18,16 +18,16 @@ list of parts:
 - 🟦 2S25 [pen]
 - ✅ 9K114
 - ✅ 9K121 
-- 🟨  AK176MA (ammo rework pending)
+- 🟦  AK176MA
 - ✅ AK630
 - 🟦 D30
 - ✅ FAB-5000
-- ⬜ GSH230
-- ⬜ GSH301
+- 🟦 GSH230
+- 🟦 GSH301
 - 🟥 HeavyERA
 - ✅ KH-41
-- ⬜ KORD
-- ⬜ NS37
+- 🟦 KORD
+- 🟦 NS37
 - ⬜ O120
 - ✅ Plasma_Stealth_System_Module [needs a bit of tweaking still]
 - 🟨 Rail176 [range]
