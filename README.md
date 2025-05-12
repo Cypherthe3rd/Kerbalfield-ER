@@ -3,13 +3,12 @@ a continuation and full rebalancing of Kerbalfield by Kernowden Kerbin
 
 
 **Plans:**
+(note: these are just extremely rough outlines and stuff will be added and changed outside of the plans)
 1. release (0.1): all missiles fixed and rebalanced
-2.  (0.2): gun stuff
+2.  (0.2): guns fixed
 3.  (0.3): localization maybe
 4.  (0.4): placeholder for stuff i didnt think of yet
 5.  (1.0): once the mod is fully presentable
-6. in the future some more parts are planned but we will see
-
 
 list of parts:
 ✅ Complete | 🟦 to be tested | 🟨 small rebalance [guidance, range, etc] | 🟥 Full rebalance/fix | ⬜ not checked yet
