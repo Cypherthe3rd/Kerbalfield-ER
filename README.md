@@ -27,7 +27,7 @@ list of parts:
 - ✅ KH-41
 - 🟦 KORD
 - 🟦 NS37
-- ⬜ O120
+- 🟦 O120
 - ✅ Plasma_Stealth_System_Module [needs a bit of tweaking still]
 - 🟨 Rail176 [range]
 - ✅ RVV-AE-PD
