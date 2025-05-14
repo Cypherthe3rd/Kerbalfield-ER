@@ -29,7 +29,7 @@ list of parts:
 - 🟦 NS37
 - 🟦 O120
 - ✅ Plasma_Stealth_System_Module [needs a bit of tweaking still]
-- 🟨 Rail176 [range]
+- 🟦 Rail176 [range]
 - ✅ RVV-AE-PD
 - ✅ S21
 - ⬜ ShVAK-E
