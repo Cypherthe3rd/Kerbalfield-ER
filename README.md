@@ -14,22 +14,22 @@ list of parts:
 ✅ Complete | 🟦 to be tested | 🟨 small rebalance [guidance, range, etc] | 🟥 Full rebalance/fix | ⬜ not checked yet
 
 **Russian:**
-- 🟦 2S25 [pen]
+- 🟨 2S25 [accuracy rework]
 - ✅ 9K114
 - ✅ 9K121 
-- 🟦  AK176MA
+- 🟨  AK176MA [accuracy rework]
 - ✅ AK630
-- 🟦 D30
+- 🟨 D30 [accuracy rework]
 - ✅ FAB-5000
-- 🟦 GSH230
-- 🟦 GSH301
+- 🟨 GSH230 [accuracy rework]
+- 🟨 GSH301 [accuracy rework]
 - 🟥 HeavyERA
 - ✅ KH-41
-- 🟦 KORD
-- 🟦 NS37
-- 🟦 O120
+- 🟨 KORD [accuracy rework]
+- 🟨 NS37 [accuracy rework]
+- 🟨 O120 [accuracy rework]
 - ✅ Plasma_Stealth_System_Module [needs a bit of tweaking still]
-- 🟦 Rail176 [range]
+- 🟨 Rail176 [accuracy rework]
 - ✅ RVV-AE-PD
 - ✅ S21
 - ⬜ ShVAK-E
@@ -61,7 +61,7 @@ list of parts:
 - 🟥 LAD-X/Y
 
 **EU:**
-- ✅ Bk27
+- 🟨 Bk27 [accuracy rework]
 - ✅ CROWS762
 - ✅ FlareCannon (why does this exist?)
 - 🟨 HS404 [pen]
