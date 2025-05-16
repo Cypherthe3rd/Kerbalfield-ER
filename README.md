@@ -43,7 +43,7 @@ list of parts:
 - ⬜ ZIS2
 
 **US:**
-- 🟨 AESA
+- ✅ AN/APG-83
 - ✅ AIM-120D (lofts too low but thats a kappa issue)
 - ✅ AIM9X
 - 🟨 BGM-154 [now AARGM-ER or AGM-88G]
@@ -59,6 +59,7 @@ list of parts:
 - ✅ AB76
 - ✅ ADS
 - 🟥 LAD-X/Y
+- ✅ External Fuel Tank
 
 **EU:**
 - 🟨 Bk27 [accuracy rework]
@@ -70,6 +71,7 @@ list of parts:
 - ✅ MICA
 - ✅ MK103
 - 🟥 VickersMG (bro doesnt show up in the sph)
+- ✅ PS-05A
 
 **CN:**
 - 🟨 ZTZ-59-94 [pen]
