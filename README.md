@@ -48,8 +48,8 @@ list of parts:
 - ✅ AIM9X
 - 🟨 BGM-154 [now AARGM-ER or AGM-88G]
 - ✅ CB90MissileLauncher
-- ⬜ CROWS
-- 🟨 CROWS30 [pen]
+- 🟦 CROWS
+- 🟦 CROWS30
 - ⬜ M2HB
 - ⬜ M50
 - ✅ TOW2B
