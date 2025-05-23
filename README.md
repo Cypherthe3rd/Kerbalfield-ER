@@ -14,33 +14,33 @@ list of parts:
 ✅ Complete | 🟦 to be tested | 🟨 small rebalance [guidance, range, etc] | 🟥 Full rebalance/fix | ⬜ not checked yet
 
 **Russian:**
-- 🟨 2S25 [accuracy rework]
+- 🟦 2S25
 - ✅ 9K114
 - ✅ 9K121 
-- 🟨  AK176MA [accuracy rework]
+- 🟦  AK176MA
 - ✅ AK630
-- 🟨 D30 [accuracy rework]
+- 🟦 D30
 - ✅ FAB-5000
-- 🟨 GSH230 [accuracy rework]
-- 🟨 GSH301 [accuracy rework]
+- 🟦 GSH230
+- 🟦 GSH301
 - 🟥 HeavyERA
 - ✅ KH-41
-- 🟨 KORD [accuracy rework]
-- 🟨 NS37 [accuracy rework]
-- 🟨 O120 [accuracy rework]
+- 🟦 KORD
+- 🟦 NS37
+- 🟦 O120
 - ✅ Plasma_Stealth_System_Module [needs a bit of tweaking still]
-- 🟨 Rail176 [accuracy rework]
+- 🟦 Rail176
 - ✅ RVV-AE-PD
 - ✅ S21
-- ⬜ ShVAK-E
+- 🟦 ShVAK-E
 - ✅ SS-26
-- 🟨 T14 [pen]
-- 🟨 T3485 [pen]
-- 🟨 T62M1 [pen]
+- 🟦 T14
+- 🟦 T3485
+- 🟦 T62M1
 - ✅ TU423
-- ⬜ UPK-23
+- 🟦 UPK-23
 - ✅ VA-111 
-- ⬜ ZIS2
+- 🟦 ZIS2
 
 **US:**
 - ✅ AN/APG-83
@@ -48,10 +48,10 @@ list of parts:
 - ✅ AIM9X
 - 🟨 BGM-154 [now AARGM-ER or AGM-88G]
 - ✅ CB90MissileLauncher
-- ⬜ CROWS
-- 🟨 CROWS30 [pen]
-- ⬜ M2HB
-- ⬜ M50
+- 🟦 CROWS
+- 🟦 CROWS30
+- 🟦 M2HB
+- 🟦 M50
 - ✅ TOW2B
 - ✅ TOWL2
 
