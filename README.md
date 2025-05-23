@@ -50,8 +50,8 @@ list of parts:
 - ✅ CB90MissileLauncher
 - 🟦 CROWS
 - 🟦 CROWS30
-- ⬜ M2HB
-- ⬜ M50
+- 🟦 M2HB
+- 🟦 M50
 - ✅ TOW2B
 - ✅ TOWL2
 
