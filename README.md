@@ -14,7 +14,7 @@ list of parts:
 ✅ Complete | 🟦 to be tested | 🟨 small rebalance [guidance, range, etc] | 🟥 Full rebalance/fix | ⬜ not checked yet
 
 **Russian:**
-- 🟥 2S25 [changes not registered ingame somehow]
+- ✅ 2S25 [changes not registered ingame somehow]
 - ✅ 9K114
 - ✅ 9K121 
 - 🟦  AK176MA
