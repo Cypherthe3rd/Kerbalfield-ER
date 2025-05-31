@@ -44,8 +44,11 @@ list of parts:
 
 **US:**
 - ✅ AN/APG-83
+- 🟨 AGM-158 [animation]
 - ✅ AIM-120D (lofts too low but thats a kappa issue)
 - ✅ AIM9X
+- ✅ ANMPQ-65 [still needs itty bitty tweaks to range]
+- 🟥 ASM-135 [RCS requires something i cannot do myself in blender]
 - 🟨 BGM-154 [now AARGM-ER or AGM-88G]
 - ✅ CB90MissileLauncher
 - 🟥 CROWS [not appearing ingame]
