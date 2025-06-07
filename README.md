@@ -115,4 +115,4 @@ list of parts:
 - ✅ YU7
 - ⬜ ZBL08
 - ⬜ ZTZ-15
-- ⬜ ZTZ-99A2
+- 🟨 ZTZ-99A2 [needs new chinese ammo and rebalanced stats]
