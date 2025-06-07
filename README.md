@@ -65,7 +65,7 @@ list of parts:
 - ✅ External Fuel Tank
 
 **EU:**
-- 🟨 Bk27 [accuracy rework]
+- ✅ Bk27
 - ✅ CROWS762
 - ✅ FlareCannon (why does this exist?)
 - 🟨 HS404 [pen]
