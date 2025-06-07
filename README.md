@@ -51,7 +51,7 @@ list of parts:
 - 🟥 ASM-135 [RCS requires something i cannot do myself in blender]
 - 🟨 BGM-154 [now AARGM-ER or AGM-88G]
 - ✅ CB90MissileLauncher
-- 🟥 CROWS [not appearing ingame]
+- 🟥 CROWS [Has no model]
 - 🟨 CROWS30 [texture missing]
 - ✅ M2HB
 - 🟨 M50
