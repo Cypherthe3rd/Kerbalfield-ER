@@ -14,7 +14,7 @@ list of parts:
 ✅ Complete | 🟦 to be tested | 🟨 small rebalance [guidance, range, etc] | 🟥 Full rebalance/fix | ⬜ not checked yet
 
 **Russian:**
-- 🟥 2S25 [conflicts with BDA refurbished}
+- 🟦 2S25
 - ✅ 9K114
 - ✅ 9K121 
 - ✅  AK176MA
@@ -51,7 +51,7 @@ list of parts:
 - 🟥 ASM-135 [RCS requires something i cannot do myself in blender]
 - 🟨 BGM-154 [now AARGM-ER or AGM-88G]
 - ✅ CB90MissileLauncher
-- 🟥 CROWS [not appearing ingame]
+- 🟥 CROWS [Has no model]
 - 🟨 CROWS30 [texture missing]
 - ✅ M2HB
 - 🟨 M50
@@ -65,7 +65,7 @@ list of parts:
 - ✅ External Fuel Tank
 
 **EU:**
-- 🟨 Bk27 [accuracy rework]
+- ✅ Bk27
 - ✅ CROWS762
 - ✅ FlareCannon (why does this exist?)
 - 🟨 HS404 [pen]
@@ -115,4 +115,4 @@ list of parts:
 - ✅ YU7
 - ⬜ ZBL08
 - ⬜ ZTZ-15
-- ⬜ ZTZ-99A2
+- 🟨 ZTZ-99A2 [needs new chinese ammo and rebalanced stats]
