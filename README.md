@@ -68,7 +68,7 @@ list of parts:
 - ✅ Bk27
 - ✅ CROWS762
 - ✅ FlareCannon (why does this exist?)
-- 🟨 HS404 [pen]
+- ✅ HS404 [pen]
 - ✅ METEOR
 - ✅ MG151
 - ✅ MICA
