@@ -1,6 +1,8 @@
 Kerbalfield-ER, 
 a continuation and full rebalancing of Kerbalfield by Kernowden Kerbin
 
+due to recent devolpemnts: 
+## REMOVE KERBALFIELD BEFORE INSTALLING THIS MOD
 
 **Plans:**
 (note: these are just extremely rough outlines and stuff will be added and changed outside of the plans)
