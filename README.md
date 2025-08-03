@@ -56,7 +56,7 @@ list of parts:
 - 🟥 CROWS [Has no model]
 - 🟨 CROWS30 [texture missing]
 - ✅ M2HB
-- 🟨 M50
+- 🟥 M50
 - ✅ TOW2B
 - ✅ TOWL2
 
