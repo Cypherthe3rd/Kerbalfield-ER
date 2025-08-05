@@ -1,7 +1,7 @@
 Kerbalfield-ER, 
 a continuation and full rebalancing of Kerbalfield by Kernowden Kerbin
 
-due to recent devolpemnts: 
+due to recent developments: 
 ## REMOVE KERBALFIELD BEFORE INSTALLING THIS MOD
 
 **Plans:**
