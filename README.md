@@ -1,6 +1,8 @@
 Kerbalfield-ER, 
 a continuation and full rebalancing of Kerbalfield by Kernowden Kerbin
 
+due to recent developments: 
+## REMOVE KERBALFIELD BEFORE INSTALLING THIS MOD
 
 **Plans:**
 (note: these are just extremely rough outlines and stuff will be added and changed outside of the plans)
@@ -41,20 +43,21 @@ list of parts:
 - ✅ UPK-23
 - ✅ VA-111 
 - ✅ ZIS2
+- ✅ R-74M2
 
 **US:**
 - ✅ AN/APG-83
-- 🟨 AGM-158 [animation]
-- ✅ AIM-120D (lofts too low but thats a kappa issue)
+- 🟨 AGM-158 [VLS version texture]
+- ✅ AIM-120D
 - ✅ AIM9X
-- ✅ ANMPQ-65 [still needs itty bitty tweaks to range]
+- ✅ ANMPQ-65
 - 🟥 ASM-135 [RCS requires something i cannot do myself in blender]
 - 🟨 BGM-154 [now AARGM-ER or AGM-88G]
 - ✅ CB90MissileLauncher
 - 🟥 CROWS [Has no model]
-- 🟨 CROWS30 [texture missing]
+- 🟨 CROWS30LS [texture missing]
 - ✅ M2HB
-- 🟨 M50
+- 🟥 M50
 - ✅ TOW2B
 - ✅ TOWL2
 
@@ -68,13 +71,15 @@ list of parts:
 - ✅ Bk27
 - ✅ CROWS762
 - ✅ FlareCannon (why does this exist?)
-- ✅ HS404 [pen]
+- ✅ HS404
 - ✅ METEOR
 - ✅ MG151
 - ✅ MICA
 - ✅ MK103
 - 🟥 VickersMG (bro doesnt show up in the sph)
 - ✅ PS-05A
+- ✅ ASRAAM
+- ✅ ASMPA-R
 
 **CN:**
 - 🟨 ZTZ-59-94 [pen]
