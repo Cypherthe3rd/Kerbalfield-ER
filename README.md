@@ -82,7 +82,7 @@ list of parts:
 - ✅ ASMPA-R
 
 **CN:**
-- 🟨 ZTZ-59-94 [pen]
+- 🟦  ZTZ-59-94
 - ✅ 89Zjq
 - ✅ AKD10
 - 🟨 CH-100MM [pen]
