@@ -100,7 +100,7 @@ list of parts:
 - ✅ LD2000
 - ✅ LS6
 - ✅ LT-2 
-- 🟨 PGZ-07 [pen]
+- 🟥 PGZ-07 [I don't even know where to start with this one]
 - ✅ PL-10
 - ✅ PL-12 
 - ✅ PL-15 
