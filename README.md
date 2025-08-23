@@ -85,7 +85,7 @@ list of parts:
 - 🟦  ZTZ-59-94
 - ✅ 89Zjq
 - ✅ AKD10
-- 🟨 CH-100MM [pen]
+- 🟦 CH-100MM [pen]
 - ✅ DF-17
 - ✅ FT1
 - ✅ HHQ-10
