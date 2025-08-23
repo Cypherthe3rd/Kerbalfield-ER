@@ -82,10 +82,10 @@ list of parts:
 - ✅ ASMPA-R
 
 **CN:**
-- 🟨 ZTZ-59-94 [pen]
+- 🟦  ZTZ-59-94
 - ✅ 89Zjq
 - ✅ AKD10
-- 🟨 CH-100MM [pen]
+- 🟦 CH-100MM [pen]
 - ✅ DF-17
 - ✅ FT1
 - ✅ HHQ-10
@@ -100,7 +100,7 @@ list of parts:
 - ✅ LD2000
 - ✅ LS6
 - ✅ LT-2 
-- 🟨 PGZ-07 [pen]
+- 🟥 PGZ-07 [I don't even know where to start with this one]
 - ✅ PL-10
 - ✅ PL-12 
 - ✅ PL-15 
