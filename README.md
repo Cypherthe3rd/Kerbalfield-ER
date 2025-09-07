@@ -91,7 +91,7 @@ list of parts:
 - ✅ HHQ-10
 - ✅ HHQ-10Launcher
 - ✅ HJ-73A
-- 🟨 HPJ-38 [pen]
+- 🟦 HPJ-38 [pen]
 - ✅ HQ-19
 - ✅ HQ-2
 - ✅ HQ-2Launcher
