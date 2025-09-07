@@ -74,7 +74,7 @@ list of parts:
 - ✅ HS404
 - ✅ METEOR
 - ✅ MG151
-- ✅ MICA
+- ✅ MICA3UOF8_30x165mmHEI
 - ✅ MK103
 - 🟥 VickersMG (bro doesnt show up in the sph)
 - ✅ PS-05A
@@ -118,6 +118,6 @@ list of parts:
 - ✅ YJ9
 - ✅ YU6
 - ✅ YU7
-- ⬜ ZBL08
+- 🟦 ZBL08
 - ⬜ ZTZ-15
 - 🟨 ZTZ-99A2 [needs new chinese ammo and rebalanced stats]
